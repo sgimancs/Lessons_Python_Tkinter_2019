@@ -1,7 +1,8 @@
 # Python Tutorial 2019
 Lessons Python + Tkinter (Andrey Kudlai, 2019)
 
-![python](https://github.com/user-attachments/assets/d027dbb3-e2c1-42b4-a77a-72b2e258a95f)
+![440660401-d027dbb3-e2c1-42b4-a77a-72b2e258a95f](https://github.com/user-attachments/assets/a2a5a783-3d0b-46a3-ba64-0944ac6555f1)
+
 
 
 # Описание:
