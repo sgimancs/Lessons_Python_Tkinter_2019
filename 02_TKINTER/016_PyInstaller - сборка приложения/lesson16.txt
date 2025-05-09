@@ -1,0 +1,17 @@
+https://pypi.org/project/PyInstaller/
+
+# pip install pyinstaller
+
+# сборка приложения с настройками по умолчанию
+pyinstaller notepad_tk.py
+pyinstaller -w notepad_tk.py
+
+# сборка приложения в виде одного файла
+pyinstaller -F notepad_tk.py
+pyinstaller -F -w notepad_tk.py
+
+# Multi files (unpack) - noconsole !!! (for speed load)
+pyinstaller -w notepad_tk.py
+
+# icon
+pyinstaller -w -i "C:\Python\compilation\notepad\nt.ico" notepad_tk.py

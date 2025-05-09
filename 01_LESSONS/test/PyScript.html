@@ -1,0 +1,36 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PyScript</title>
+
+    <link  rel="stylesheet" href="https://pyscript.net/releases/2023.11.2/core.css"/>
+    <script  type="module" src="https://pyscript.net/releases/2023.11.2/core.js"></script>
+
+</head>
+
+<body>
+<h1>
+PyScript Testing (from pyscript.net)
+</h1>
+<hr>
+
+<script type="py" terminal>
+import random
+import datetime as dt
+
+print("Hello terminal!")
+
+# Генерируем список из 10 случайных чисел от 1 до 100
+random_numbers = [random.randint(1, 100) for _ in range(10)]
+print(random_numbers)
+
+# Data
+print('today', dt.date.today().strftime('%A %B %d, %Y'))
+</script>
+
+</body>
+</html>

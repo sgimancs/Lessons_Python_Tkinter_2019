@@ -1,0 +1,11 @@
+insert into main.users (id, name, email, age, phone, comment) values (1, 'Иванов Иван', 'ivanov@gmail.com', 20, '0660419161', 'Test Person 1');
+insert into main.users (id, name, email, age, phone, comment) values (2, 'Петров Пётр', 'petrov@gmail.com', 30, '0501234567', 'Test Person 2');
+insert into main.users (id, name, email, age, phone, comment) values (3, 'Сидоров Сидор', 'sidorov@gmail.com', 40, '0671234567', 'Test Person 3');
+insert into main.users (id, name, email, age, phone, comment) values (4, 'Пупкин Вася', 'pupkin@gmail.com', 25, '0991234567', 'Test Person 4');
+insert into main.users (id, name, email, age, phone, comment) values (5, 'John Doe', 'doe@gmail.com', 28, '0631234567', 'Test New 1');
+insert into main.users (id, name, email, age, phone, comment) values (6, 'Nick Sand', 'sand@gmail.com', 32, '0441234567', 'Test New 2');
+insert into main.users (id, name, email, age, phone, comment) values (7, 'User 1', 'user1@gmail.com', 21, '0507654321', 'Test User 1');
+insert into main.users (id, name, email, age, phone, comment) values (8, 'User 2', 'user2@gmail.com', 33, '0660504020', 'Test User 2');
+insert into main.users (id, name, email, age, phone, comment) values (9, 'User 3', 'user3@gmail.com', 42, '0931324589', 'Test User 3');
+insert into main.users (id, name, email, age, phone, comment) values (10, 'User 4', 'user4@gmail.com', 23, '0507654321', 'Test User4 (Add)');
+insert into main.users (id, name, email, age, phone, comment) values (11, 'User 5', 'user5@gmail.com', 37, '0677654210', 'Test User5 (Add)');
